@@ -1,0 +1,45 @@
+objetivos y ventajas
+
+simplifica y potencia los procesos comercializacion
+elimina o reduce las barreras tecnicas al comercio
+ej: contenedores de mercancias, cajas metalicas con dimensiones totalmente
+normalizadas. se pueden almacenar o apilar de la forma deseada
+establece niveles de referencia para la calidad y seguiridad de los productos
+facilita la legislacion con referencia a normas
+
+contenido de las normas
+habitualmente comienzan con una definicion donde se explican los terminos
+y vocabulario que se va a utilizar a lo largo dle documento. continuan
+con especificaciones tecnicas (indican las caracteristicas de lo que se debe
+cumplir). y por ultimo, metodos de comprobacion y ensayo de esas
+especificaciones. pueden incluir sanciones en caso de incumplimiento.
+
+quien elabora normas?
+pueden o estan capacitados los fabricantes. podemos elaborar normas los
+que usamos los productos a traves de nuestras organizaciones de usuarios.
+y por supuesto, las administraciones publicas. colaboran los centros de
+investigacion, laboratorios, universidades, los profesionales que conocen
+bien las areas sobre las que se esta normalizando, y los expertos en
+esas areas.
+
+hay un organismo muy importante, por el tiempo que lleva normalizando y por
+la extension mundial de sus productos: ISO (International Standard
+Organization), creada en 1947. desde 1906 estaba el CEI (Comision
+Electrotecnica Internacional).
+
+El CEN (Comite Europeo de Normalizacion) edita normas a tres niveles:
+Norma europea: debe ser admitida como norma en los paises y
+prevalece sobre las nacionales.
+Documento de armonizacion: de menos nivel, permite adaptaciones a nivel nacional.
+Norma experimental europea.
+
+La entidad oficial de normalizacion en España es AENOR (Asociacion Española
+de Normalizacion y Certificacion) es de 1986.
+Las normas se llaman normas UNE (Una Norma Española), y las elaboran los Comités
+Técnicos de Normalizacion (CTN). Los pasos para elaborar una norma UNE:
+Fase 0: Trabajos preliminares. El estado del arte.
+Fase 1: Elaboracion del proyecto.
+Fase 2: Informacion publica en el BOE. No es definitiva, se publica para que los
+que trabajan en ese ambito aporten sus pegas o sus añadidos, enriquezcan la norma.
+Fase 3: Con esas correcciones, se elabora la normal UNE.
+Fase 4: Se da oficialidad a la norma: registro, edicion y difusion.

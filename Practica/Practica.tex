@@ -1,0 +1,126 @@
+\documentclass[a4paper,11pt,oneside]{report}
+\usepackage[pdftex]{graphicx}
+\usepackage[utf8x]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{fancyhdr}
+\usepackage[Bjornstrup]{fncychap}
+\usepackage{tabularx}
+\usepackage{hyperref}
+\usepackage{eurosym}
+% \usepackage[usenames,dvipsnames]{color}
+% \usepackage{colortbl}
+% \usepackage[caption=false]{subfig}
+% \usepackage{float}
+% \usepackage{pdflscape}
+
+\setlength{\headheight}{25pt}
+\setlength{\parskip}{6pt}
+
+% Margenes 1cm mas pequennos
+% \addtolength{\oddsidemargin}{-1cm}
+% \addtolength{\evensidemargin}{-1cm}
+% \addtolength{\textwidth}{2cm}
+% \addtolength{\voffset}{-1cm}
+% \addtolength{\textheight}{2cm}
+
+
+\chead{}
+\rhead{\nouppercase{\leftmark}}
+
+\hypersetup{
+colorlinks,
+citecolor=black,
+filecolor=black,
+linkcolor=black,
+urlcolor=black
+}
+
+ % La que hay que liar para que las cabeceras de los capitulos
+ % no tiren media pagina a la basura...
+
+\makeatletter
+\def\@makechapterhead#1{{
+\parindent \z@ \raggedright \normalfont
+\ifnum \c@secnumdepth >\m@ne
+	\if@mainmatter
+		\DOCH
+	\fi
+\fi
+\interlinepenalty\@M
+\if@mainmatter
+	\DOTI{#1}
+\else
+	\DOTIS{#1}
+\fi
+}}
+
+\def\@makeschapterhead#1{{
+\parindent \z@ \raggedright
+\normalfont
+\interlinepenalty\@M
+\DOTIS{#1}
+}}
+\makeatother
+
+\begin{document}
+
+
+\pagestyle{plain}
+
+%%%% Title Page %%%%%
+
+\pagenumbering{alph}
+
+\begin{titlepage}
+\begin{center}
+
+% Upper part of the page
+\includegraphics[width=0.4\textwidth]{esi_bw.png}\\[1cm]
+\textsc{\LARGE Escuela Superior de Informática}\\[0.5cm]
+\textsc{\Large Universidad de Castilla -- La Mancha}\\[2.5cm]
+
+% Title
+{\LARGE Diseño y fabricación por computador}\\[0.5cm]
+\rule{\linewidth}{0.5mm}\\[0.4cm]
+{\huge \textbf{Material y análisis del producto}}\\[0.4cm]
+\rule{\linewidth}{0.5mm}\\[1.5cm]
+
+
+{\large
+\begin{tabular}{l}
+\hspace{1cm}\textbf{\emph{Autor}}\\
+Antonio Gómez Poblete \\
+\end{tabular}
+% \end{minipage}
+}
+\vfill
+
+% Bottom of the page
+{\large \today}\\[0.5cm]
+
+\end{center}
+\end{titlepage}
+
+%%%% end Title Page %%%%%
+
+\clearpage
+\pagenumbering{arabic}
+
+\tableofcontents
+\addcontentsline{toc}{chapter}{\contentsname}
+% \listoffigures
+% \listoftables
+
+\clearpage
+
+\pagestyle{fancy}
+
+\chapter{Material}
+\input{Pizarra.tex}
+
+\chapter{Producto}
+\input{Mesa.tex}
+
+
+
+\end{document}

@@ -1,0 +1,53 @@
+Certificación es una actividad consistente en la emisión de documentos que
+atestigüen que un producto o servicio se ajusta a normas determinadas. La
+certificación tiene un caracter de inicialidad voluntario, pero tienen una
+validez, y pasado ese tiempo se deben pasasr pruebas que certifiquen que esa
+certificación se mantiene.
+
+= Estado actual =
+
+Antes se hacían las cosas de manera manual, sin maquinaria, y los diseños
+variaban muy poco a lo largo de los años.
+
+Los ordenadores permiten cambiar los diseños mucho más rápidamente. Se pueden
+visualizar y hacer pruebas sobre nuevos productos sin que todavía existan. Hay
+un factor que hacer que diseñar sea difícil, la competencia. La competencia es
+tan fuerte que en España no hay apenas diseño ni fabricación, y todos los
+beneficios se quedan en las empresas de origen.
+
+Dada la demanda, los consumidores son cada vez más especializados y por tanto
+es más difícil vender.
+
+= Ciclo de vida de un producto =
+
+1. Diseño
+2. Documentación
+3. Planificación del proceso de producción
+4. Planificación de la producción
+5. Fabricación
+6. Control de calidad
+7. Expedición
+8. Mercado
+
+Si el control de calidad se realiza durante toda la fase de fabricación y no
+sólo al final, se habla de productos con cero defecto o calidad total.
+
+El diseño consiste en determinar las características de la pieza. Se usan
+programas CAD.
+
+En la documentación se usan programas de edición de textos asociados a
+información gráfica. Garantizan que la información gráfica es coherente con la
+textual.
+
+En la planificación del proceso de la producción se especifica cómo se va a
+obtener un producto, y en 4 se planea cuántas unidades se van a producir
+(productividad). La productividad depende de la demanda y de la disponibilidad
+de materia prima.
+
+Fases del diseño de un producto:
+1. Definición del producto
+2. Creación del modelo
+3. Análisis y optimización del modelo
+4. Construcción del prototipo
+5. Análisis y optimización del prototipo
+6. Documentación

@@ -1,5 +1,6 @@
 objetivos y ventajas
-
+se reducen el numero y variedad del producto
+permite la interoperabilida entre productos semejantes
 simplifica y potencia los procesos comercializacion
 elimina o reduce las barreras tecnicas al comercio
 ej: contenedores de mercancias, cajas metalicas con dimensiones totalmente
@@ -9,7 +10,7 @@ facilita la legislacion con referencia a normas
 
 contenido de las normas
 habitualmente comienzan con una definicion donde se explican los terminos
-y vocabulario que se va a utilizar a lo largo dle documento. continuan
+y vocabulario que se va a utilizar a lo largo del documento. Continuan
 con especificaciones tecnicas (indican las caracteristicas de lo que se debe
 cumplir). y por ultimo, metodos de comprobacion y ensayo de esas
 especificaciones. pueden incluir sanciones en caso de incumplimiento.
@@ -31,7 +32,7 @@ El CEN (Comite Europeo de Normalizacion) edita normas a tres niveles:
 Norma europea: debe ser admitida como norma en los paises y
 prevalece sobre las nacionales.
 Documento de armonizacion: de menos nivel, permite adaptaciones a nivel nacional.
-Norma experimental europea.
+Norma experimental europea: documentos probisionales.
 
 La entidad oficial de normalizacion en España es AENOR (Asociacion Española
 de Normalizacion y Certificacion) es de 1986.
